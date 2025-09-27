@@ -1,0 +1,25 @@
+# Virtual environment
+ds_env/
+*.pyc
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+
+# import numpy as np
+# import pandas as pd
+# import matplotlib.pyplot as plt 
+# import seaborn as sn
+
+
+
+01_Basics.ipynb
+│   ├── 02_DataFrames.ipynb
+│   ├── 03_DataCleaning.ipynb
+│   └── 04_Grouping_Analysis.ipynb
